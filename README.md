@@ -1,4 +1,4 @@
 # Menu_app_design
-Usingg_figma
-![Screenshot 2024-08-22 205954](https://github.com/user-attachments/assets/8edcebdf-3990-4e0c-8396-e07c2bf0e752)
+Using_figma
 
+![figma](https://github.com/user-attachments/assets/7dc55572-5d96-4cb0-afa7-61c9d3ba87a2)
